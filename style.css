@@ -275,13 +275,17 @@ html {
 .mwork {
   width: 100%;
   min-height: 800px;
-  text-align: center;
   margin-top: 100px;
   font-size: 30px;
+  text-align: center;
+}
+.work{
+  text-align: center;
 }
 .diswork {
   font-size: 20px;
   margin-top: 20px;
+  text-align: center;
 }
 .workphoto1 {
   display: flex;
@@ -297,7 +301,7 @@ html {
   cursor: pointer;
   display: block;
   margin-left: auto;
-  margin-right: 20px;
+  margin-right: auto;
 }
 
 .workphoto2 {
@@ -314,7 +318,7 @@ html {
   margin-right: 20px;
   cursor: pointer;
   display: block;
-  margin-right: 20px;
+  margin-right: auto;
   margin-left: auto;
 }
 
@@ -323,13 +327,13 @@ html {
   border: none;
   color: rgb(5, 5, 5);
   padding: 15px 32px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
   margin: 50px 2px;
   margin-bottom: 50px;
   cursor: pointer;
+  text-align: center;
 }
 .con{
   font-size: 36px;
