@@ -429,7 +429,33 @@ html {
 }
 
 .conlast{
-  background-color: #000;
+  background-color: rgb(92, 91, 91);
   width: 100%;
   height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  opacity: 0.8;
+}
+
+.ttt{
+  background-color: white;
+  margin-top: 70px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.iconnicuniversal{
+  font-size: 30px;
+  margin-top: 20px;
+  color: white;
+}
+.lastword{
+  font-size: 18px;
+  color: white;
+  margin-top: 20px;
+  word-spacing: 6px;
 }
